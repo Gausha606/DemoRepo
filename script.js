@@ -16,3 +16,4 @@ console.log(lowerCase('SHARMA'));
 console.log(lowerCase('SAURABH'));
 console.log(lowerCase('SHARMA'));
 console.log(lowerCase('Dev'));
+console.log(lowerCase('Bhargav'));
