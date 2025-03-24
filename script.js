@@ -18,8 +18,5 @@ console.log(lowerCase('SHARMA'));
 console.log(lowerCase('Dev'));
 console.log(lowerCase('Bhargav'));
 console.log(lowerCase('Bhargav'));
-<<<<<<< HEAD
 console.log(chalk.red(lowerCase('Bhargav')));
 console.log(chalk.blue(lowerCase('Mayank')));
-=======
->>>>>>> fd35dd9879c6e997a32cdf917ca8b7ba870595e0
