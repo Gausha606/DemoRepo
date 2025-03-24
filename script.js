@@ -17,3 +17,9 @@ console.log(lowerCase('SAURABH'));
 console.log(lowerCase('SHARMA'));
 console.log(lowerCase('Dev'));
 console.log(lowerCase('Bhargav'));
+<<<<<<< HEAD
+=======
+console.log(lowerCase('Bhargav'));
+console.log(chalk.red(lowerCase('Bhargav')));
+console.log(chalk.blue(lowerCase('Mayank')));
+>>>>>>> 4a6517e (add chalk blue and mayank)
