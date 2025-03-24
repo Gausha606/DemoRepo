@@ -15,3 +15,4 @@ import { lowerCase} from 'lower-case';
 console.log(lowerCase('SHARMA'));
 console.log(lowerCase('SAURABH'));
 console.log(lowerCase('SHARMA'));
+console.log(lowerCase('Dev'));
