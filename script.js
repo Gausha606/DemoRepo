@@ -20,3 +20,4 @@ console.log(lowerCase('Bhargav'));
 console.log(lowerCase('Bhargav'));
 console.log(chalk.red(lowerCase('Bhargav')));
 console.log(chalk.blue(lowerCase('Mayank')));
+console.log(chalk.blue(lowerCase('Mayank')));
